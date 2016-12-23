@@ -19,6 +19,7 @@ Crear una app con cualquier funcionalidad que cumpla los siguientes requisitos
 - Apollo Client
 
 **Code style standard**
+[StandardJS](http://standardjs.com/)
 
 ## Links de interes
 
