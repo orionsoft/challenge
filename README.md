@@ -8,7 +8,7 @@ Crear una app con cualquier funcionalidad que cumpla los siguientes requisitos
 - Accounts con https://github.com/nicolaslopezj/meteor-apollo-accounts
 - Usar https://github.com/nicolaslopezj/roles
 
-### Cliente
+### Cliente
 - Usar https://github.com/orionsoft/create-react-app
 - React router
 - React
